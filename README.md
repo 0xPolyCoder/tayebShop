@@ -1,7 +1,5 @@
 # tayebShop
 
-##Screenshots
-
 ![GitHub Logo](https://github.com/m3dtay3b/tayebShop/raw/main/Screenshots/1.png)
 
 ## eCommerce Platfrom using MERN Stack
