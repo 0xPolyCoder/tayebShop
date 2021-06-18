@@ -34,6 +34,8 @@
 
 ## Install
 `npm install`
+`cd frontend`
+`npm install`
 
 ## Run the project
 `npm run dev`
