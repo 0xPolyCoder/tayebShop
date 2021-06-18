@@ -2,7 +2,7 @@
 
 ##Screenshots
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/m3dtay3b/tayebShop/raw/main/Screenshots/1.png)
 
 ## eCommerce Platfrom using MERN Stack
 
@@ -33,3 +33,9 @@
 * PayPal / credit card integration
 
 * Custom database seeder script
+
+## Install
+`npm install`
+
+## Run the project
+`npm run dev`
